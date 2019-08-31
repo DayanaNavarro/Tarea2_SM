@@ -1,0 +1,10 @@
+Además, los Pythonistas que dan por sentado la supremacía de su lenguaje deben tener cuidado. 
+Fortran, Lisp y Ada fueron muy populares en las décadas de 1980 y 1990, según el índice TIOBE, que rastrea las prácticas 
+de codificación entre los desarrolladores profesionales. Su uso se ha desplomado, ya que se han puesto a disposición 
+opciones más eficientes. Ningún imperio, independientemente de su poder, puede durar para siempre.
+
+Los desarrolladores con proyectos construidos con Python 2 deben tomar nota de un anuncio reciente de los 
+desarrolladores de Python de que el soporte para esta versión finalizará el 1 de enero de 2020. El cambio requiere 
+que todos los proyectos se trasladen a Python 3, que será la única versión que recibirá gratis y apoyo oficial.
+
+ 
